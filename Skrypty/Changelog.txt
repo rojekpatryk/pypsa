@@ -1,0 +1,9 @@
+2025-01-21
+dodane ograniczenie na Cf dla CCGT
+
+2025-01-22
+sortowanie wyników po roku i scenariuszu
+wybór slice scenariuszy do przeliczania z dostępnych w InputData
+
+2025-01-23
+Rozdzielenie generatora CCGT na CCGT old i new
